@@ -1,0 +1,10 @@
+Started on Nov 8, 2018 2:19:00 PM
+Using strategy: Default
+[poll] Last Built Revision: Revision be1a0d6d69ddfc24798b856cf5d696579dd0c521 (refs/remotes/origin/master)
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git ls-remote -h https://github.com/narengol/cdci.git # timeout=10
+Found 1 remote heads on https://github.com/narengol/cdci.git
+[poll] Latest remote head revision on refs/heads/master is: be1a0d6d69ddfc24798b856cf5d696579dd0c521 - already built by 2
+Done. Took 2 sec
+No changes

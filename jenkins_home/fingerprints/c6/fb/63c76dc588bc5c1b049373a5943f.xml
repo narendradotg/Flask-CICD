@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2018-11-08 11:40:21.951 UTC</timestamp>
+  <md5sum>c6fb63c76dc588bc5c1b049373a5943f</md5sum>
+  <fileName>Credential id=27ceec25-1da4-4ae2-a351-652c0987724c name=narengol/******</fileName>
+  <usages>
+    <entry>
+      <string>cicd-1</string>
+      <ranges>1-8</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
